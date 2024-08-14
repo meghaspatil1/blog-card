@@ -1,0 +1,74 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing:border-box;
+}
+body{
+    background-color:hsl(47, 88%, 63%);
+    min-height:100vh;
+    font-family:'figtree','sans-serif';
+    place-content: center;
+    display: grid;
+}
+.box{
+    background-color: hsl(0, 0%, 100%);
+    max-width: 375px;
+    border-radius: 1rem;
+    padding: 1.5rem;
+    margin: 1rem;
+    position: relative;
+    outline: 1px solid;
+    outline-color: black;
+    box-shadow: 10px 10px 0 0  black;
+}
+.box img{
+    width: 100%;
+    border-radius: 15px;
+    display: block;
+}
+.L{
+    background-color: hsl(47, 88%, 63%);
+    width: min-content;
+    padding: .5rem;
+    margin-top: 1.5rem;
+    font-weight:800;
+    border-radius: 5px;
+}
+.P{
+    margin-top: 1rem;
+    font-weight:600;
+    color: hsl(0, 0%, 7%);
+}
+h1{
+    margin-top: .5rem;}
+h1 a{
+    color: hsl(0, 0%, 7%);
+    font-size: 1.5rem;
+    font-weight: 800;
+    line-height: 1;
+    text-decoration: none;
+}
+h1 a:hover{
+    color:  hsl(47, 88%, 63%);
+}
+.desp{
+    margin-top: .5rem;
+    line-height: 1.5rem;
+    color: hsl(0, 0%, 42%);
+    font-weight: 500;
+    font-size: 16px;
+}
+.author{
+    margin-top: 1rem;
+    display:flex;
+    align-items:center;
+    gap: .5rem;
+    img{
+        width: 30px;
+    }
+}
+.name{
+    color: hsl(0, 0%, 7%);
+    font-weight: 950;
+}
+
