@@ -20,10 +20,10 @@ Users should be able to:
 
 ### Screenshot
 
-- [screenshots](./screenshots)
+- [screenshots](./screenshots)(#screenshots)
 ### Links
-    - [solution URl](https://github.com/meghaspatil1/blog-card/)
-    - [Live site](https://meghaspatil1.github.io/blog-card/)
+    - [solution URl](https://github.com/meghaspatil1/blog-card/)(#solution url)
+    - [Live site](https://meghaspatil1.github.io/blog-card/)(#Live site)
 ### Process
     Built with:
     - Semantic HTML5 markup
