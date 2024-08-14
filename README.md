@@ -22,8 +22,8 @@ Users should be able to:
 
 - [screenshots](./screenshots)
 ### Links
-    - [solution URl]()
-    - [Live site]()
+    - [solution URl](https://github.com/meghaspatil1/blog-card/)
+    - [Live site](https://meghaspatil1.github.io/blog-card/)
 ### Process
     Built with:
     - Semantic HTML5 markup
@@ -53,6 +53,6 @@ I need to foucs and make strong  my self in BOX Model section while creating the
 
 ## Author
 
-- Website - [megha patil](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [megha patil](https://meghaspatil1.github.io/blog-card/)
+- Frontend Mentor - [@meghapatil1](https://www.frontendmentor.io/profile/meghapatil1)
 
